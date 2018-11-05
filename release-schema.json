@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "legalEntityTypeDetail": {
+              "title": "Tipo de compañía",
+              "description": "Indica el tipo de organización en Colombia: Limitada, Sociedad anónima, Sociedad anónima simplificada, entre otros",
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

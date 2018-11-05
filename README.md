@@ -1,0 +1,1 @@
+Indica el tipo de organización en Colombia: Limitada, Sociedad anónima, Sociedad anónima simplificada, entre otros
